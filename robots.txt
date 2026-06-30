@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://orlandopestcontrolsquad.com/sitemap.xml
